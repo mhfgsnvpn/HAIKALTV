@@ -74,8 +74,14 @@ https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60GZP2d/SERU-CH.jpg" group-title="HipHipHura", SERU CHANNEL
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jyKv1mh/Smart-Select-20230610-160356-Picsart.jpg" group-title="RELIGI", ASSUNAH ANABAWI
-http://210.210.155.37/x6bnqe/s/s27/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Musium", Smithsonian HD
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/264767
 
@@ -336,6 +342,11 @@ https://stream.zeno.fm/sgae2t7tn0hvv
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jyKv1mh/Smart-Select-20230610-160356-Picsart.jpg" group-title="Dakwah", ASSUNAH ANABAWI
+http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
 #EXTINF:-1 group-title="Dakwah" tvg-id="RodjaTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rodjatv.png", Rodja TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
