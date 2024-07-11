@@ -3,6 +3,35 @@
 ========================================================= HEWAN ======================================================================
 ==============================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title=" HEWAN ", SMITHSONIAN
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rsJmxqJ/Lingua.jpg" group-title=" HEWAN ", LINGUA
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title=" HEWAN ", SMITHSONIAN
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BqB6MMt/TECHSTORM.jpg" group-title=" HEWAN ", TECHSTORM
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298572
+http://iptvtree.net:8080/F26646/f950f250/298572
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel%28abe4ead2-1a88-4330-9f41-382fcf94bba2%29/manifest.mpd
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title=" HEWAN ", SMITHSONIAN
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
+http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
+http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title=" HEWAN " tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE
+https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rsJmxqJ/Lingua.jpg" group-title=" HEWAN ", LINGUA
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title=" HEWAN ", SMITHSONIAN
@@ -6208,11 +6237,7 @@ https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
 #http://iptvtree.net:8080/ace2524d/15a571c413/162511
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRFxxnv/VH1.jpg" group-title="ENTERTAINMENT", VH1
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58602.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="ALTERNATIVE", DISCOVERY
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57409.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALTERNATIVE", Hit History
@@ -6371,8 +6396,8 @@ https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
 " tvg-id="Discovery HD World"  tvg-logo="https://i.ibb.co/QKMfRS0/discohdworld.png", DISCOVERY HD 
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="Discovery Science"  tvg-logo="https://i.ibb.co/sQ5GGdW/discoscience.png", DISCOVERY SCIENCE
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="MOVIES",LOTUS MACAU
@@ -6406,19 +6431,10 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&exten
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=https://cubmupart4.apiv2x.workers.dev/
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rsJmxqJ/Lingua.jpg" group-title="KNOWLEDGE", LINGUA
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BqB6MMt/TECHSTORM.jpg" group-title="KNOWLEDGE", TECHSTORM
-https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/298572
-http://iptvtree.net:8080/F26646/f950f250/298572
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel%28abe4ead2-1a88-4330-9f41-382fcf94bba2%29/manifest.mpd
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
+
+
+
+
 
 
 
@@ -6438,11 +6454,6 @@ https://rawcdn.githack.com/broto121/ali/main/dj.m3u8
 #http://iptvtree.net:8080/ace2524d/15a571c413/162511
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sRFxxnv/VH1.jpg" group-title="ENTERTAINMENT", VH1
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58602.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9GNB29H/smith.png" group-title="KNOWLEDGE", SMITHSONIAN
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57513.m3u8
-http://iptvtree.net:8080/iptvromania2020/02eFiY8dip8UPQWaEuS9/264767
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=239082&extension=m3u8
-https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13" group-title="ALTERNATIVE", DISCOVERY
 http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57409.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ALTERNATIVE", Hit History
