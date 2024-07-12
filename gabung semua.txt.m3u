@@ -1,8 +1,4 @@
 
-
-
-
-
 ========================================================= HEWAN ======================================================================
 ==============================================================================================================================================
 
@@ -502,43 +498,13 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:af:99:2d&stream=177331&exten
 
 
 ======================================================= FILMM =======================================================================
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="FILMM", WARNER TV
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
-
+======================================================================================================================================
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/film.gif" group-title=" FILMM ",Bioskop Horor
 https://raw.githubusercontent.com/gala411/toettoet/main/horor.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/film.gif" group-title=" FILMM ",Bioskop Mandarin
 https://raw.githubusercontent.com/gala411/toettoet/main/mandarin.m3u8
 
 <========================= HBO Group ===================================>
-#EXTINF:-1 group-title=" HBO Group " tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN PLUS
-http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
-#EXTINF:-1 group-title=" HBO Group " tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
-
-#EXTINF:-1 group-title=" HBO Group " tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
-#EXTINF:-1 group-title=" HBO Group " tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
-#EXTINF:-1 group-title=" HBO Group " tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
-#EXTINF:-1 group-title=" HBO Group " tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
-#EXTINF:-1 group-title=" HBO Group " tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
-
-
-
-
-
-
-
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1091,6 +1057,28 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/yg3St6g/Movies-Now.jpg", MOVIES NOW
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN PLUS
+http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
+http://208.115.225.174:14136
+
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
+https://bit.ly/3FFkNmF
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
+http://208.115.225.174:14140
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
+https://bit.ly/3tXEYtB
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
+http://208.115.225.174:14160
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
+http://208.115.225.174:14165
 
 #EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", New Movies
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -1895,6 +1883,8 @@ https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="Kombat" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA 
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="soccer" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fifa%2B.png",Fifa + ᴴᴰ 
+https://bit.ly/3QOfvfG?profile=inspirationFreeTV.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="localnow_MotoAmerica" group-title="Motor Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/MotoAmerica.png",MotoAmerica  
 https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE_Max.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Motor Sports" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/RacingAmerica.webp",Racing America  
@@ -1915,6 +1905,50 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8?wowzasessionid=inspiration
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991638
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Doc" tvg-logo="https://www.autentic.com/images/History-Logo-positiv-RGB.svg",Autentic History 
 https://autentic-autentichistory-1-gb.lg.wurl.tv/3000.m3u8
+
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Kajian Islam
+https://stream.zeno.fm/ge2ekgd7f18uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", 1921 BHOR - Bali Headbanger Online Radio
+https://stream.zeno.fm/h5akw5vnsp8uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Islam Sinar Sunnah
+https://stream.zeno.fm/ecen9zbtyhhvv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RADIO PENSIUNAN
+https://stream.zeno.fm/mlfr0ulhcomuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Suara Al-Iman
+https://stream.zeno.fm/3p2ygnssu98uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Madina_Radio
+https://stream.zeno.fm/b41be1un92quv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", GABUT RADIO
+https://stream.zeno.fm/xz4n0rwh9hhvv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Murottal
+https://stream.zeno.fm/agv8w1xp1uhvv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Global TV Throwback Hits
+https://stream.zeno.fm/ehn9gybgqd0uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Cahaya Hidayah Sunnah
+https://stream.zeno.fm/6a3agbqh308uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Prambors Throwback
+https://stream.zeno.fm/8b8h880erwzuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", RADIO STREAMING ISLAM FM
+https://stream.zeno.fm/51ha9danbd0uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Women Radio abe Jakarta
+https://stream.zeno.fm/1mk624cmu5quv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio Classic Reformed
+https://stream.zeno.fm/41vyntmg31zuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Retrosquad Radio
+https://stream.zeno.fm/hz9lwpyveyxuv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Hitz Radio Batam
+https://stream.zeno.fm/kdphzbrn096vv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Radio An-Najiyah
+https://stream.zeno.fm/gsn4kxkty68uv
+#EXTINF:-1 group-title="FM" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", UI Music Station
+https://stream.zeno.fm/sgae2t7tn0hvv
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jyKv1mh/Smart-Select-20230610-160356-Picsart.jpg" group-title="Dakwah", ASSUNAH ANABAWI
@@ -1969,6 +2003,9 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1 group-title="Soccer" tvg-id="psjtv.id" tvg-logo="https://raw.githubusercontent.com/gala411/image/main/psjtv.png",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="JSport" tvg-id="jsports1.jp" tvg-logo="https://raw.githubusercontent.com/gala411/image2/main/J%20Sports.png",J Sports 1 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
@@ -2863,6 +2900,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF: -1 tvg-logo="https://i.ibb.co/kJPKr86/INSERT.jpg" group-title="ENTERTAINMENT", INSERT
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4G5D5R/Warner.jpg" group-title="SERIES", WARNER TV
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CbRbfRP/Picsart-23-07-22-00-09-40-442.jpg" group-title="SPORTS", FOOTBALL TV
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd
 
@@ -2997,6 +3042,10 @@ https://cdn.rtmp1.vodhosting.com/hls/WDF.m3u8
 
 #EXTINF:-1 group-title="MUSIC",TEMBANG KENANGAN
 http://scg.streamingmurah.com:7777/;
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png",VoA
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 
 
 #EXTM3U url-tvg="https://epg.urfan.web.id" refresh="3600"
