@@ -1,5 +1,8 @@
 
 
+
+
+
 ========================================================= HEWAN ======================================================================
 ==============================================================================================================================================
 
@@ -514,6 +517,30 @@ https://raw.githubusercontent.com/gala411/toettoet/main/horor.m3u8
 https://raw.githubusercontent.com/gala411/toettoet/main/mandarin.m3u8
 
 <========================= HBO Group ===================================>
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN PLUS
+http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
+http://208.115.225.174:14136
+
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
+https://bit.ly/3FFkNmF
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
+#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
+http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
+
+
+
+
+
+
+
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1066,28 +1093,6 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/yg3St6g/Movies-Now.jpg", MOVIES NOW
 http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co.com/1YgjPLy/MN-PLUS.jpg", MN PLUS
-http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO-logo-49E64C6314-seeklogo.com.png", HBO
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57235.m3u8
-http://208.115.225.174:14136
-
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png", HBO+
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58552.m3u8
-https://bit.ly/3FFkNmF
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_2-logo-83DE992A19-seeklogo.com.png", HBO2
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58514.m3u8
-http://208.115.225.174:14140
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png", HBO FAMILY
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58554.m3u8
-https://bit.ly/3tXEYtB
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/HBO_Signature-logo-C4C09E6F28-seeklogo.com.png", HBO SIGNATURE
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/58517.m3u8
-http://208.115.225.174:14160
-#EXTINF:-1 group-title="MOVIES HBO" tvg-logo="https://seeklogo.com/images/H/hbo-xtreme-logo-D424105400-seeklogo.com.png", HBO XTREME
-http://2hubs.ddns.net:25461/live/bronder/drL3ksLUHg/57211.m3u8
-http://208.115.225.174:14165
 
 #EXTINF:-1 group-title="Movies & Hiburan 2" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", New Movies
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
