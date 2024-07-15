@@ -573,7 +573,7 @@ http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
 http://uhd3.one:80/play/live.php?mac=00:1A:79:19:06:50&stream=282639&extension=ts
 http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=282639&extension=m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="MOVIES" tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
+#EXTINF:0 tvg-id="" tvg-name="" group-title=" FILMM " tvg-url="" tvg-logo="https://i.ibb.co/0Xhtnk1/sony-pic-logo-tv.jpg", SONY PIX
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 group-title=" FILMM " tvg-logo="https://i.ibb.co/Wnjb66G/Picsart-23-06-13-13-36-35-532.jpg", &PRIVE HD
@@ -724,7 +724,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinem
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:0 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title="Kids",Cinemachi Kids HD
+#EXTINF:0 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title=" FILMM ",Cinemachi Kids HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
@@ -754,7 +754,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://hometv.pw/logo/movies/axn.png" group-title="MOVIES", AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://hometv.pw/logo/movies/axn.png" group-title=" FILMM ", AXN
 https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -852,11 +852,11 @@ http://vo01.mohdtv.com:8880/voby0579/36128229/55291
 #https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", smuvis1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" FILMM ", smuvis1
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", smuvis2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" FILMM ", smuvis2
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Spontan Uhuyy", smuvis3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title=" FILMM ", smuvis3
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
 
 
