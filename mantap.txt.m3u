@@ -980,7 +980,6 @@ https://melon-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title=" FILMM ", 11111 Celestial Classic
 https://melon-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="CCM - [Channel 22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title=" FILMM ", 22222 Celestial Classic
@@ -1037,46 +1036,6 @@ https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 #EXTINF:-1 group-title=" FILMM " tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg", My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CINEMACHI HD - [Channel 401].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi.png" group-title=" FILMM ", 1a Cinemachi HD
-https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CINEMACHI KIDS HD - [Channel 403].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-kids.png" group-title=" FILMM ",2b Cinemachi Kids HD
-https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CINEMACHI ACTION HD - [Channel 402].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-action.png" group-title=" FILMM ",3c Cinemachi Action HD
-https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CINEMACHI MAX HD - [Channel 404].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20MAX%20Square%20(black).png" group-title=" FILMM ",4d Cinemachi Max HD
-https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png" group-title=" FILMM ",5e Cinemachi Xtra HD
-https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1142,27 +1101,27 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/bd4f56c1/74f4_r32.jpg",6 f Cinemachi
+#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/bd4f56c1/74f4_r32.jpg",Cinemachi
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/dce7dab3/e566_r32.jpg",7g Cinemachi Kids
+#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/dce7dab3/e566_r32.jpg",Cinemachi Kids
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/9ebf59d0/a31c_r32.jpg",8h Cinemachi Action
+#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/9ebf59d0/a31c_r32.jpg",Cinemachi Action
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/26a588c7/e3f2_r32.jpg",9 Cinemachi Max
+#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/26a588c7/e3f2_r32.jpg",Cinemachi Max
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/eae4114e/c5cc_r32.jpg",10 Cinemachi Xtra
+#EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://static.mncnow.id/images/channel/eae4114e/c5cc_r32.jpg",Cinemachi Xtra
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1365,10 +1324,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinema
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:0 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-action.png" group-title=" FILMM ",15 Cinemachi Action HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 
 
@@ -1435,30 +1390,6 @@ https://liveaneviadev.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI" tvg-logo="https://hometv.pw/logo/movies/cinemachi.png" group-title=" FILMM ",16 CINEMACHI
-https://liveaneviadev.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI ACTION" tvg-logo="https://hometv.pw/logo/movies/cinemachi_action.png" group-title=" FILMM ",17 CINEMACHI ACTION 
-https://liveaneviadev.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI MAX" tvg-logo="https://hometv.pw/logo/movies/cinemachi_max.png" group-title=" FILMM ",18 CINEMACHI MAX 
-https://liveaneviadev.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="CINEMACHI XTRA" tvg-logo="https://hometv.pw/logo/movies/cinemachi_xtra.png" group-title=" FILMM ",19 CINEMACHI XTRA 
-https://liveaneviadev.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="My CINEMA" tvg-logo="https://hometv.pw/logo/movies/my_cinema.png" group-title=" FILMM ",My CINEMA
 https://liveaneviadev.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
