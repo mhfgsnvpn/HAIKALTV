@@ -871,23 +871,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 
-#EXTINF:-1 group-title=" FILMM " tvg-id="Galaxy Premium - [Channel 12].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",2Galaxy Premium
-https://melon-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title=" FILMM " tvg-id="Galaxy - [Channel 13].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xmlG" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png",2Galaxy
-https://melon-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-
 #EXTINF:-1 group-title=" FILMM " tvg-id="Cinema World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://yt3.googleusercontent.com/kLDF64sdHJiS3n7t59yPqtNTsp3xjx4FhnTXg5RDubB2Ps7Pxc-mZpV8YezhdsJl7xB6r4Kpqg=s900-c-k-c0x00ffffff-no-rj", bbbbb Cinema World HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
@@ -928,19 +911,9 @@ http://210.210.155.37/uq2663/h/h18/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1613353271-.png" group-title=" FILMM ",Indonesia Movie Channel
-https://melon-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 <==========Movies==========>
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" group-title=" FILMM " tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",3Galaxy
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
@@ -1048,13 +1021,8 @@ https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
  
 
 
-#EXTINF:-1 group-title=" FILMM " tvg-logo="https://i.ibb.co/yg3St6g/Movies-Now.jpg", MOVIES NOW
-http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
-
 #EXTINF:-1 group-title="  FILMM " tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", New Movies
 https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=newmovies&channel_id=newid_013&apikey=b97c7a7d0c82424bb607e141ef215779&auth=ef4722f8-0f04540c-5195b5f1-d5b74e3a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 group-title="  FILMM " tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", Popcorn Flix
-https://amg00540-crackleplusllc-popcornflix-localnow-vln1v.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="  FILMM " tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0", FRIGHTFLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2253&live=1&avod=1&site_page=__PAGEURL_ESC__&site_name=Frightflix&hls_marker=1&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=__HEIGHT__&player_width=__WIDTH__&is_lat=__LIMIT_AD_TRACKING__
 
@@ -1076,16 +1044,6 @@ https://hls1a-akm.douyucdn.cn/live/747764rY8y36S2GJ_4000/playlist.m3u8?wsAuth=ad
 https://hlsa-akm.douyucdn.cn/live/323876rPE7rkDH53_900/playlist.m3u8?wsAuth=37964116f281524f2ab0fdf9c5ce2c53&token=web-h5-0-323876-c58c02104b243774cef81d1db53c4c5f531e45fc630031f0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391285181&mcid2=0&origin=tct&mix=0&isp=
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title=" FILMM ", Eksyen#V
 https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_900/playlist.m3u8?wsAuth=8353f40dddb3356191f4b573784095d5&token=web-h5-0-85894-a3575d938a4aa309b50649f84845b49edb70643dd946a0e0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=390603539&mcid2=0&origin=tct&mix=0&isp=
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title=" FILMM ", R-tvshows
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -1206,22 +1164,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NF3RHfEGavxzvr1pOyyj3v6lVy60ZPfKozrlnezqG3_5Mrc8_WtptJEU&s=10" group-title=" FILMM ", Zee CINEMA
 http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132025
 
-#EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://hometv.pw/logo/movies/galaxy.png" group-title=" FILMM ",1 GALAXY 
-https://liveaneviadev.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="GALAXY PREMIUM" tvg-logo="https://hometv.pw/logo/movies/galaxy_premium.png" group-title=" FILMM ", 1GALAXY PREMIUM 
-https://liveaneviadev.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="My CINEMA" tvg-logo="https://hometv.pw/logo/movies/my_cinema.png" group-title=" FILMM ",My CINEMA
 https://liveaneviadev.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
@@ -1240,9 +1182,6 @@ https://liveaneviadev.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-name="MCE" tvg-logo="https://hometv.pw/logo/movies/mce.png" group-title=" FILMM ",MCE
-http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=My_Cinema_Europe_HD
-
 
 
 
