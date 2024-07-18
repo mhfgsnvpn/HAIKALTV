@@ -1,3 +1,11 @@
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXSTV.jpg" group-title="SELAMAT DATANG DI MAXSTREAMTV", SELAMAT DATANG DI MAXSTREAM TV
+https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXstream.mp4
+
+
+
+
+
 
 ========================================================= TV INDONESIAA ======================================================================
 ==============================================================================================================================================
@@ -39,10 +47,10 @@ https://iptvqreatif.github.io/iptv/indosiar.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV
-http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/1803
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD (Transcorp)
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png",NET TV HD (Transcorp)
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
@@ -53,7 +61,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Indonesia Channels",1111  TV TABALONG
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4bJEaLPFxTNB0QeltV3garh39qhlEhvSHA&amp;usqp=CAU" group-title="Indonesia Channels",1111  TV TABALONG
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 
@@ -77,12 +85,12 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png",RTV Rajawali Tv 00
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/rtv.png",RTV Rajawali Tv 00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png", NET. 00
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.dens.tv/images/channel-logo/13.jpg", NET. 00
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
@@ -15376,8 +15384,6 @@ https://archive.org/download/MurotalMR/112.mp3
 https://archive.org/download/MurotalMR/113.mp3
 #EXTINF:-1 group-title="  Murotal Al-Quran" tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/alquran.png",114. An-Naas (Manusia)
 https://archive.org/download/MurotalMR/114.mp3
-
-
 
 
 
