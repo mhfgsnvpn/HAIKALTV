@@ -49,7 +49,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1
 
 =========================================================================================================
 ========================================= HBO GROUP ===========================================
-#EXTINF:0 tvg-id="CitraBioskop.id" group-logo="https://logodix.com/logo/95882.jpg" tvg-name="" tvg-logo="" group-title="HBO GROUP",HBO (FM)
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
