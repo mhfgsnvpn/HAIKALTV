@@ -1,16 +1,14 @@
 
 
-######## NASIONAL###########
-###########################
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhlqbUSWmzNdYqLsrFj7mKNnX6YOHoRxNTQ&s" group-title="NASIONAL"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png"
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXSTV.jpg" group-title="SELAMAT DATANG DI MAXSTREAMTV", SELAMAT DATANG DI MAXSTREAM TV
+https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXstream.mp4
 
+====================================================================================================================================================================
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhlqbUSWmzNdYqLsrFj7mKNnX6YOHoRxNTQ&s" group-title="NASIONALii"
 #EXTINF:
-#EXTINF:-1 group-title="NASIONALii" tvg-id="" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",INDOSIARuu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
 #EXTINF:-1 group-title="NASIONALii" tvg-id="" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",INDOSIARss
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -20,23 +18,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXSTV.jpg" group-title="SELAMAT DATANG DI MAXSTREAMTV", SELAMAT DATANG DI MAXSTREAM TV
-https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXstream.mp4
-
-====================================================================================================================================================================
-
-#EXTINF:-1 group-title="aaaaaaa" tvg-id="" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",INDOSIAR 111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 group-title="aaaaaaa" tvg-id="" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",INDOSIAR 222
+#EXTINF:-1 group-title="NASIONALii" tvg-id="" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",INDOSIAR 222
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
