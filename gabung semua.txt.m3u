@@ -11076,14 +11076,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 
 
 
-=========================================================================================
-=======================================   Trực tiếpl  =======================================
-=========================================================================================
-
-#EXTINF:-1 group-title="Trực tiếp" tvg-id="" tvg-logo="",Trực Tiếp 1
-http://171.238.181.52:18080/198.m3u8
-
-
+============================================================================
 =========================================================================================
 =======================================  SONY SPORTS ====================================
 =========================================================================================
@@ -11109,7 +11102,7 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SONY SPORTS",Sony Sports 3
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="htps://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="SONY SPORTS",Sony Sports 3
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
