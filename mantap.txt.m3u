@@ -1,8 +1,47 @@
+
+
+
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXSTV.jpg" group-title="SELAMAT DATANG DI MAXSTREAMTV", SELAMAT DATANG DI MAXSTREAM TV
 https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/MAXstream.mp4
 
 ====================================================================================================================================================================
+
+
+#EXTINF:-1,INDOSIAR 1
+#EXTGRP: FIRSTMEDIAx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+
+
+#EXTINF:-1 group-title="FIRSTMEDIAx" group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 2
+#EXTVLCOPT:http-referrer=https://pisionx.pages.dev/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd 
+
+
+
+#EXTINF:-1 tvg-id="" group-title="FIRSTMEDIAx" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",NDOSIAR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+http://iptvtree.net:8080/live/F14995/a84c0963/162138.ts
+
+
+#EXTINF:-1 tvg-id="" group-title="FIRSTMEDIAx" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",NDOSIAR 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+http://013tv.com:8080/live/AmirBilali/76448035/162138.ts
+
+
+#EXTINF:-1 tvg-id="" group-title="FIRSTMEDIAx" tvg-logo="https://i.ibb.co/vBW7SQG/MAXSTREAM.jpg",NDOSIAR 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+http://iptvtree.net:8080/live/Isidorchait/ea940f8fd1/162138.ts
+
+
+
 
 
 ========================================================= TV INDONESIAA ======================================================================
@@ -28,10 +67,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" group-title="Indonesia Channels" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar12
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 group-title=" Indonesia Channels " group-logo="https://i.postimg.cc/TYhz8BB8/20240210-113722.png" tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/indosiar.png",INDOSIAR 2
+#EXTVLCOPT:http-referrer=https://pisionx.pages.dev/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
