@@ -1,45 +1,47 @@
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Indonesia TV",Indosiar (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:3969080
+#EXT-X-TARGETDURATION:11
+#EXT-X-I-FRAMES-ONLY
+#EXTINF:10.144000,
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/4188
+#EXTINF:10.000000,
+http://iptvkita.my.id:25461/Ahmadjunaidi/29062024/4188
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="Indonesia TV",Indosiar
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Indonesia TV",Indosiar(@)
-http://103.86.116.96:9981/stream/channelid/430458082?ticket=56CAEE31D9AC8494C7400524F3693A83F880186D&profile=pass
-http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png" group-title="Indonesia TV",RCTI (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTVLCOPT:http-referrer=https://visionplus.id
+##EXTM3U
+##EXT-X-VERSION:3
+##EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
+#http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=681796,RESOLUTION=640x360,FRAME-RATE=25.000
+#http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Indonesia TV",SCTV (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="Indonesia TV",SCTV (CBM
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Indonesia TV",SCTV (@)
-http://103.86.116.96:9981/stream/channelid/68757506?ticket=31B720677E7594833C3EB63749975EC5E822FFB7&profile=pass
-http://103.183.10.7:9900/stream/channelid/1783520043?profile=pass
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+##EXTM3U
+##EXT-X-VERSION:3
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+#http://aflaxtv.xyz:8080/live/2c258a9b/c73f1cfbce/162138.m3u8
 
 
 
+##EXTM3U
+##EXT-X-VERSION:3
+##EXT-X-INDEPENDENT-SEGMENTS
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
+##http://210.210.155.37/session/2681d746-a39c-11ee-b6ce-c81f66f89318/uq2663/h/h207/02.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=681796,RESOLUTION=640x360,FRAME-RATE=25.000
+##http://210.210.155.37/session/2681d746-a39c-11ee-b6ce-c81f66f89318/uq2663/h/h207/01.m3u8
+
+##EXTM3U
+##EXT-X-TARGETDURATION:65535
+##EXT-X-VERSION:2
+##EXTINF:65535,
+##http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162138
+
+##EXTM3U
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0491654,RESOLUTION=320x240,FRAME-RATE=25.000,AUDIO="audio1"
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/01.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=0991654,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
+##EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2400567,RESOLUTION=960x540,FRAME-RATE=25.000,AUDIO="audio1"
+##http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
