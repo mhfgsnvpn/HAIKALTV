@@ -46,15 +46,6 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="INDONESIA", RCTI(ktv2)
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="INDONESIA", INEWS(ktv2)
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101132
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="INDONESIA", MNCTV(ktv2)
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="INDONESIA", GTV(ktv2)
-http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101112
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",MOJI_(opx)
 http://opplex.tv:8080/3116580700/0700/350997
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",MOJI_(xtv)
