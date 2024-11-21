@@ -1,4 +1,4 @@
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",SCTV(indihome)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/sctv.png" group-title="INDONESIA",SCTV(indihome)
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
@@ -11,19 +11,19 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",MOJI_(opx)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/moji.png" group-title="INDONESIA",MOJI_(opx)
 http://opplex.tv:8080/3116580700/0700/350997
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",MOJI_(xtv)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/moji.png" group-title="INDONESIA",MOJI_(xtv)
 http://xtv.ooo:8080/0966717777/0966717777/350997
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",TVONE(indihome)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/tvone.png" group-title="INDONESIA",TVONE(indihome)
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",TRANSTV(indihome)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/TRANSTV.png" group-title="INDONESIA",TRANSTV(indihome)
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",TRANS7(indihome)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/trans7.png" group-title="INDONESIA",TRANS7(indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title=" INDONESIA ", TRANSTV (VIP)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/transtv.png" group-title=" INDONESIA ", TRANSTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title=" INDONESIA ", TRANS7 (VIP)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/trans7.png" group-title=" INDONESIA ", TRANS7 (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 
 
@@ -31,13 +31,13 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title=" INDONESIA ", MNCTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title=" INDONESIA ",MNCTV_(xtv)
+#EXTINF:-1  tvg-logo=" https://raw.githubusercontent.com/quuen2024/logobaru/main/mnc.png" group-title=" INDONESIA ",MNCTV_(xtv)
 http://xtv.ooo:8080/live/71891100/66181910/350996.ts
 
 #EXTINF:-1 group-title=" INDONESIA " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title=" INDONESIA ",GTV_(xtv)
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/gtv.png" group-title=" INDONESIA ",GTV_(xtv)
 http://xtv.ooo:8080/live/71891100/66181910/350954.ts
 
 
@@ -3140,7 +3140,6 @@ http://epg.112114.xyz/douyu/2436390
 http://epg.112114.xyz/douyu/2838296
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",斗鱼电视剧HD2_dec=auto
 http://epg.112114.xyz/douyu/7489563
-
 
 
 
