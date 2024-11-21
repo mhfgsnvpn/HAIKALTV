@@ -21,6 +21,13 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDONESIA",TRANS7(indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title=" INDONESIA ", TRANSTV (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
+#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title=" INDONESIA ", TRANS7 (VIP)
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
+
+
+
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title=" INDONESIA ", MNCTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
 
@@ -64,10 +71,6 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
 #EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", SCTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34323
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", TRANSTV (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34324
-#EXTINF:-1  tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", TRANS7 (VIP)
-http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="SHAREEXT@INDONESIA ➾  SPORTS", INDOSIAR (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
@@ -3206,7 +3209,6 @@ http://epg.112114.xyz/douyu/2436390
 http://epg.112114.xyz/douyu/2838296
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="ShareExt@HK_MOVIES",斗鱼电视剧HD2_dec=auto
 http://epg.112114.xyz/douyu/7489563
-
 
 
 
