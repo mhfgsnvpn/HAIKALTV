@@ -11,10 +11,7 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/moji.png" group-title="INDONESIA",MOJI_(opx)
-http://opplex.tv:8080/3116580700/0700/350997
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/moji.png" group-title="INDONESIA",MOJI_(xtv)
-http://xtv.ooo:8080/0966717777/0966717777/350997
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/tvone.png" group-title="INDONESIA",TVONE(indihome)
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/TRANSTV.png" group-title="INDONESIA",TRANSTV(indihome)
@@ -31,14 +28,10 @@ http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34325
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/mnc.png" group-title=" INDONESIA ", MNCTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34326
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/queen/mnc.png" group-title=" INDONESIA ",MNCTV_(xtv)
-http://xtv.ooo:8080/live/71891100/66181910/350996.ts
 
 #EXTINF:-1 group-title=" INDONESIA " tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png", GTV (VIP)
 http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/gtv.png" group-title=" INDONESIA ",GTV_(xtv)
-http://xtv.ooo:8080/live/71891100/66181910/350954.ts
 
 
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTI.HD.(ext)
