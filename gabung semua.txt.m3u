@@ -54,53 +54,9 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 
 
-
-#EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="Shareext@LOKAL_ID", GTV+(2023)
-https://allcutv.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV+(2023)
-https://allcutv.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Shareext@LOKAL_ID", RCTI+(2023)
-https://allcutv.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="Shareext@LOKAL_ID", INEWS+(2023)
-https://allcutv.rctiplus.id/inews2023.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Shareext@LOKAL_ID", RCTI_+(1s1)
-https://1s1.rctiplus.id/rcti2023.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV_+(1s1)
-https://1s1.rctiplus.id/mnctv2023.m3u8
-#EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="Shareext@LOKAL_ID", GTV_+(1s1)
-https://1s1.rctiplus.id/gtv2023.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="Shareext@LOKAL_ID", INEWS_+(1s1)
-https://1s1.rctiplus.id/inews2023.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="Shareext@LOKAL_ID", RCTI_+(sdi)
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="Shareext@LOKAL_ID", MNCTV_+(sdi)
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="Shareext@LOKAL_ID", GTV_+(sdi)
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="Shareext@LOKAL_ID", INEWS_+(sdi)
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#EXTINF:-1  group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png",RCTI 2
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8
-#EXTINF:-1  group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logo_inews_small.png",INEWS 2
-https://dsgtq5sngxkde.cloudfront.net/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1  group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV(stream)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="Shareext@LOKAL_ID",Moji (FMX)_mpd(ott.player)
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="Shareext@LOKAL_ID",SCTV (FMX)_mpd(ott.player)
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="Shareext@LOKAL_ID",Indosiar (FMX)_mpd(ott.player)
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
-#EXTINF:-1 tvg-id="indosiar.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/Indosiar.jpg" group-title="Shareext@LOKAL_ID", Indosiar(CubMu).mpd(ott.navigator)
-https://servicebuss.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/rcti.png" group-title="Shareext@LOKAL_ID", .RCTI.mpd(ott.navigator)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -124,7 +80,7 @@ https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-inews.rctiplus.id/inews-sdi.mpd
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Kompastv_intec
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/kompastv.png" group-title="Shareext@LOKAL_ID", Kompastv_intec
 https://flv.intechmedia.net/live/ch102.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Sea today_intec
 https://flv.intechmedia.net/live/ch106.m3u8|user-agent=Mozilla/5.0
@@ -132,9 +88,9 @@ https://flv.intechmedia.net/live/ch106.m3u8|user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/antv.png" group-title="Shareext@LOKAL_ID", ANTV_intec
 https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", tvOne_intec
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/tvone.png" group-title="Shareext@LOKAL_ID", tvOne_intec
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Metrotv_intec
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/metrotv.png" group-title="Shareext@LOKAL_ID", Metrotv_intec
 https://flv.intechmedia.net/live/ch110.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Magna Chanel_intec
 https://flv.intechmedia.net/live/ch111.m3u8|user-agent=Mozilla/5.0
@@ -147,22 +103,6 @@ https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Rtv_intec
 https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID", RCTI (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID", MNCTV (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID", GTV (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID", INEWS (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID",INDONESIAna TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
