@@ -92,18 +92,18 @@ https://flv.intechmedia.net/live/ch108.m3u8|user-agent=Mozilla/5.0
 https://flv.intechmedia.net/live/ch109.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/metrotv.png" group-title="Shareext@LOKAL_ID", Metrotv_intec
 https://flv.intechmedia.net/live/ch110.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="Shareext@LOKAL_ID", Net._intec
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png" group-title="Shareext@LOKAL_ID", Net._intec
 https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID",INDONESIAna TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Shareext@LOKAL_ID",TV Tabalong
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/tabalong.png" group-title="Shareext@LOKAL_ID",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/TRANSTV.png" group-title="Shareext@LOKAL_ID",TRANStv_dt
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo=" https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/trans7.png" group-title="Shareext@LOKAL_ID",TRANS7_dt
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/trans7.png" group-title="Shareext@LOKAL_ID",TRANS7_dt
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 
