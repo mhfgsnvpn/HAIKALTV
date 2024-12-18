@@ -77,6 +77,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 // 02. Local TV
 ============================================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/tabalong.png" group-title="02. Local TV",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 
 
