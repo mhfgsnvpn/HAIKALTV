@@ -77,8 +77,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 // 02. Local TV
 ============================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/tabalong.png" group-title="02. Local TV",TV Tabalong
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/tabalong.png" group-title="INDONESIA ",TV Tabalong
 
 
 
@@ -100,8 +100,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/11257
 #EXTINF:-1 tvg-name="" tvg-id="Net." tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. Local TV",022. Net TV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NetTV.m3u8
-
+https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="02. Local TV" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",023. Trans 7
