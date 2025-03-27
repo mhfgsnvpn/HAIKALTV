@@ -1,28 +1,3 @@
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="Local TV" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",023. Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1989690183_b344100_sleng.m3u8
-
-
-#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="Local TV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",024. Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2090299990_b344100_sleng.m3u8
-
-
-
-
-
-
-
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4bJEaLPFxTNB0QeltV3garh39qhlEhvSHA&amp;usqp=CAU" group-title="02. Local TV",1111  TV TABALONG
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-
-
-
-
 #EXTM3U billed-msg="WAHYU IPTV.", url-tvg="https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23"
 
 
@@ -43,7 +18,7 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlQuran Kareem" tvg-name="AlQuran Kareem" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Makkah_TV.png" group-title="00. Religi TV", 001. Makkah TV
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdngb196.indihometv.com/joss/130/alquran/chunklist_w1263327388_b1004100_sleng.m3u8?enc=&uid=&exp=
+http://www.geocities.ws/wahyuiptv/MakkahTV-HD.m3u8
 
 
 #EXTINF:-1 tvg-ID="Rodja TV" tvg-name="Rodja TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="00. Religi TV",002. Rodja TV
@@ -71,8 +46,9 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 #EXTINF:-1 tvg-id="medstv.id" tvg-name="medstv" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Meds-TV.png" group-title="00. Religi TV", 007. MedsTV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cfg.me/WahyuIPTV-MeDsTv.m3u8
+#EXTVLCOPT:http-user-agent=YouTV/1.8.4-prod.release+a4897ed2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://www.geocities.ws/wahyuiptv/MedsTV-HD.m3u8
+
 
 
 
@@ -83,14 +59,12 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 
 #EXTINF:-1 tvg-id="Astro Al Hijrah" tvg-name="Astro Al Hijrah" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TV-Alhijrah.png" group-title="00. Religi TV", 009. Astro Al Hijrah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+http://www.geocities.ws/wahyuiptv/AlHijrahTV-HD.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Astro Oasis" tvg-name="Astro Oasis" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astro_Oasis_HD.png" group-title="00. Religi TV", 010. Astro Oasis
-#https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/OasisHD.m3u8
-http://iptv12k.com:35461/654321/123456/11291
+http://www.geocities.ws/wahyuiptv/AstroOasis.m3u8
 
 
 
@@ -157,9 +131,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 
 
 #EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="01. News TV",018. SindoNews TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
 
 
 
@@ -173,24 +150,22 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-H
 
 
 #EXTINF:-1  tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV",019. RCTI Live
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/RCTI-HD.m3u8
 
 
 #EXTINF:-1 group-title="02. Local TV" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",020. GTV
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/GTV-HD.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. Local TV",021. MNC TV
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/MNCTV-HD.m3u8
 
 
 
 #EXTINF:-1 tvg-name="" tvg-id="Net." tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. Local TV",022. Net TV
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/Net-HD.m3u8
 
 
@@ -214,14 +189,15 @@ http://www.geocities.ws/wahyuiptv/SCTV-HD.m3u8
 
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="02. Local TV" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",026. Indosiar
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/IndosiarHD.m3u8
+http://www.geocities.ws/wahyuiptv/Indosiar-HD.m3u8
 
 
 
 #EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. Local TV",027. Moji TV
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Moji-HD.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 
 
@@ -232,7 +208,6 @@ http://www.geocities.ws/wahyuiptv/ANTV-HD.m3u8
 
 
 #EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="02. Local TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",029. TvRi
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/TVRI-HD.m3u8
 
 
@@ -245,8 +220,7 @@ http://www.geocities.ws/wahyuiptv/TVRI-HD.m3u8
 
 
 #EXTINF:-1 group-title="03. Astro Go" tvg-id="boohd.my" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyBoo.png",030. Boo 
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/MyBoo-HD.m3u8
+https://WahyuIPTV.short.gy/MyBoo
 
 
 
@@ -273,44 +247,44 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/DramaSangat.png" group-title="03. Astro Go",035. Drama Sangat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DramaSangat.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Astro Citra" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="03. Astro Go",037. Astro Citra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Astro Ria" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="03. Astro Go",038. Astro Ria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRia.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Astro Prima" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png" group-title="03. Astro Go",039. Astro Prima
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroPrima.m3u8
+http://www.geocities.ws/wahyuiptv/DramaSangat.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Astro Aura" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="03. Astro Go",040. Astro Aura
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroAura.m3u8
+https://WahyuIPTV.short.gy/Astro-Aura
+
+
+
+#EXTINF:-1 tvg-id="Astro Citra" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="03. Astro Go",037. Astro Citra
+https://WahyuIPTV.short.gy/Astro-Citra
+
+
+
+#EXTINF:-1 tvg-id="Astro Prima" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png" group-title="03. Astro Go",039. Astro Prima
+http://www.geocities.ws/wahyuiptv/AstroPrima.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Astro Rania" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png" group-title="03. Astro Go",041. Astro Rania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRania.m3u8
+https://WahyuIPTV.short.gy/Astro-Rania
+
+
+
+#EXTINF:-1 tvg-id="Astro Ria" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="03. Astro Go",038. Astro Ria
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
+https://WahyuIPTV.short.gy/AstroRiaHD
 
 
 
 #EXTINF:-1 tvg-id="Astro Sensasi" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="03. Astro Go",042. Astro Sensasi
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://www.geocities.ws/wahyuiptv/Astro-Sensasi.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Astro Warna" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroWarna.png" group-title="03. Astro Go",036. Astro Warna
+http://www.geocities.ws/wahyuiptv/AstroWarna.m3u8
 
 
 
@@ -333,7 +307,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 
 
 #EXTINF:-1 group-title="04. Premium TV"  tvg-logo="https://cdn.kibrispdr.org/data/757/logo-masih-dunia-lain-10.png",044. Dunia Lain
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DuniaLain.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/DuniaLain-HD.m3u8
 
 
 
@@ -368,7 +343,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
 
 #EXTINF:-1 tvg-name="" tvg-id="Flik" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="04. Premium TV",047. Flik
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Flik.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/Flik-HD.m3u8
 
 
 
@@ -425,48 +401,59 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyFamilyChan
 
 
 
-##EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV3.png" group-title="04. Premium TV",ETV Bioskop 3
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ETV3.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 1" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-1.png" group-title="04. Premium TV",ETV Bioskop 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/ETV-Bioskop-1.m3u8
 
 
 
-##EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV4.png" group-title="04. Premium TV",ETV Bioskop 4
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ETV4.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 2" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-2.png" group-title="04. Premium TV",ETV Bioskop 2
+https://WahyuIPTV.short.gy/EtvBioskop2
 
 
 
-##EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi.png" group-title="04. Premium TV",055. Cinemchi
-##KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-3.png" group-title="04. Premium TV",ETV Bioskop 3
+https://WahyuIPTV.short.gy/EtvBioskop3
+
+
+
+#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV-Bioskop-4.png" group-title="04. Premium TV",ETV Bioskop 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/ETV-Bioskop-4.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Originals" tvg-name="Originals" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png" group-title="04. Premium TV",055. Originals
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-#https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|Referer=https://www.visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:-1 tvg-id="Cinemachi Action" tvg-name="Cinemachi Action" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Action%20(black).png" group-title="04. Premium TV",056. Cinemachi Action
+#EXTINF:-1 tvg-id="Cineedge" tvg-name="Cineedge" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png" group-title="04. Premium TV",056. Cineedge
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:-1 tvg-id="Cinemachi Max" tvg-name="Cinemachi Max" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20MAX%20Square%20(black).png" group-title="04. Premium TV",057. Cinemachi Max
+#EXTINF:-1 tvg-id="Superrix" tvg-name="Superrix" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="04. Premium TV",057. Superrix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:-1 tvg-id="Cinemachi Xtra" tvg-name="Cinemachi Xtra" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png" group-title="04. Premium TV",058. Cinemachi Xtra
+#EXTINF:-1 tvg-id="Uniques" tvg-name="Unigues" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="04. Premium TV",058. Uniques
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema Word" tvg-logo="https://live.firstmedia.com/files/email/template/webp/icon-cinemaworld.webp" group-title="04. Premium TV",059. Cinema Word
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CinemaWorld.m3u8
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="Cinema Word" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CinemaWord.png" group-title="04. Premium TV",059. Cinema Word
+http://www.geocities.ws/wahyuiptv/CinemaWord.m3u8
 
 
 
@@ -488,38 +475,43 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/Galax
 
 
 #EXTINF:-1 tvg-id="ShowCase" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Astroshowcase.png" group-title="04. Premium TV",062. ShowCase Movies
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/ShowCase-Movie.m3u8
+https://WahyuIPTV.short.gy/ShowCase
+
+
+
+#EXTINF:-1 tvg-id="StudioUniversal" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/StudioUniversal.png" group-title="04. Premium TV",077. Studio Universal
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
 
 
 
 #EXTINF:-1 tvg-id="Cinemax" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="04. Premium TV",062. Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Cinemax-HD.m3u8
+http://www.geocities.ws/wahyuiptv/CinemaxHD.m3u8
 
 
 
 #EXTINF:-1 tvg-id="HBO" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/hbo_hd_wide.png" group-title="04. Premium TV",063. HBO
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/HBO-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/HboHD.m3u8
 
 
 
 #EXTINF:-1 tvg-id="HBO Hits" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272290605%27&EntityType=%27Item%27&EntityId=%2797140%27&Width=1920&Height=1280" group-title="04. Premium TV",064. HBO Hits
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/HBO-Hits-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/HboHitsHD.m3u8
 
 
 
 #EXTINF:-1 tvg-id="HBO Family" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://logodix.com/logo/789245.png" group-title="04. Premium TV",065. HBO Family
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/HBO-Family-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/HboFamilyHD.m3u8
 
 
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edc97dfc-312f-486c-a403-2a7a944a049d/dh0h4vi-0958198b-c601-47c9-a856-48127b4ab971.png/v1/fill/w_985,h_812/hbo_signature_logo_redesign__by_ricky3denton_dh0h4vi-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQ0MCIsInBhdGgiOiJcL2ZcL2VkYzk3ZGZjLTMxMmYtNDg2Yy1hNDAzLTJhN2E5NDRhMDQ5ZFwvZGgwaDR2aS0wOTU4MTk4Yi1jNjAxLTQ3YzktYTg1Ni00ODEyN2I0YWI5NzEucG5nIiwid2lkdGgiOiI8PTE3NDcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.93flG8OaAiCMNMuI5s-SSk58nncLQA58Nw-3P4WWRNk" group-title="04. Premium TV",066. HBO Signature
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/HBO-Signature-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/HboSignatureHD.m3u8
 
 
 
@@ -570,10 +562,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.m
 
 
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/800px-KIX_logo.svg.png" group-title="04. Premium TV",073. KIX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
+http://www.geocities.ws/wahyuiptv/Kix.m3u8
 
 
 
@@ -614,7 +603,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|Ref
 
 
 #EXTINF:-1 group-title="04. Premium TV" tvg-id="KBS World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://sandymcintosh.info/wp-content/uploads/2019/05/photo.png",079. KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/KBS-World-HD.m3u8
 
 
 
@@ -675,7 +665,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 
 #EXTINF:-1 group-title="05. Lifestyle TV"  tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=32&kodegb=Eat__Go_Transvision.png",085. Eat & Go
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/EatGo.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
+
 
 
 
@@ -815,7 +813,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd|
 
 
 #EXTINF: -1 tvg-id="Clubbing TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ClubbingTV.png" group-title="08. Music TV",099. Clubbing TV
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ClubbingTV.m3u8
+http://www.geocities.ws/wahyuiptv/ClubbingTV.m3u8
 
 
 
@@ -882,21 +880,35 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png",106. Sportstars 1
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Sportstar1.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
 
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_2.png",107. Sportstars 2
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://www.geocities.ws/wahyuiptv/Sportstar2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+
+
+#EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png",107. Sportstars 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
 
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="09. Sports TV",108. Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://www.geocities.ws/wahyuiptv/SoccerChannel.m3u8
+
 
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png",109. ChampionsTV1
@@ -965,24 +977,22 @@ http://iptv12k.com:35461/654321/123456/960
 
 
 #EXTINF:-1 tvg-id="ASTRO ARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="09. Sports TV",120. Astro Arena 1
-http://iptv12k.com:35461/654321/123456/5943
+http://www.geocities.ws/wahyuiptv/AstroArena.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ASTRO ARENA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2.png" group-title="09. Sports TV",121. Astro Arena 2
-http://iptv12k.com:35461/654321/123456/10971
+http://www.geocities.ws/wahyuiptv/AstroArena2.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ARENA BOLA.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Astro_Arena_Bola_1_NEW.png" group-title="09. Sports TV",122. Astro Arena Bola 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptv12k.com:35461/654321/123456/20630
+http://www.geocities.ws/wahyuiptv/AstroArenaBola1.m3u8
 
 
 
 #EXTINF:-1 tvg-id="ARENA BOLA 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Astro_Arena_Bola_2.png" group-title="09. Sports TV",123. Astro Arena Bola 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptv12k.com:35461/654321/123456/20629
+http://www.geocities.ws/wahyuiptv/AstroArenaBola2.m3u8
 
 
 
@@ -1002,7 +1012,7 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
 
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="09. Sports TV",127. Astro Football
-http://iptv12k.com:35461/654321/123456/969
+http://www.geocities.ws/wahyuiptv/AstroFootBall.m3u8
 
 
 
@@ -1053,13 +1063,12 @@ http://defaultgen.com:3050/teddytgy@gmail.com/yfPNc2JeUD/674845
 
 
 #EXTINF:-1 tvg-id="CBS Sports" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CbsSports.png" group-title="09. Sports TV",139. CBS Sports Network
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CbsSprorts.m3u8
+http://www.geocities.ws/wahyuiptv/CbsSportsNetwork.m3u8
 
 
 
 #EXTINF:-1 tvg-id="CBS Sports Golazo" tvg-url="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CbsSportsGolazo.png" group-title="09. Sports TV",140. CBS Sports Golazo
-https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
+http://www.geocities.ws/wahyuiptv/CbsSportsGolazo.m3u8
 
 
 
@@ -1100,25 +1109,22 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 
 
 #EXTINF:-1 tvg-id="TNT1" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="09. Sports TV",145. TNT Sports 1
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://htjxqse.mexamo.xyz:900/4968491427/8135596801/153714
+https://WahyuIPTV.short.gy/TNT1-HD
 
 
 
 #EXTINF:-1 tvg-id="TNT2" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="09. Sports TV",146. TNT Sports 2
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://squid.game-tv.org:8080/d0:d0:03:8d:52:86/8DYWuzS33t3ypIqpQmcqmf/138626
+https://WahyuIPTV.short.gy/TNT2-HD
+
 
 
 #EXTINF:-1 tvg-id="TNT3" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="09. Sports TV",147. TNT Sports 3
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://squid.game-tv.org:8080/d0:d0:03:8d:52:86/8DYWuzS33t3ypIqpQmcqmf/138628
+https://WahyuIPTV.short.gy/TNT3-HD
 
 
 
 #EXTINF:-1 tvg-id="TNT4" tvg-url="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="09. Sports TV",148. TNT Sports 4
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://squid.game-tv.org:8080/d0:d0:03:8d:52:86/8DYWuzS33t3ypIqpQmcqmf/138630
+https://WahyuIPTV.short.gy/TNT4-HD
 
 
 
@@ -1204,26 +1210,22 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/105863
 
 
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.Premier.League.1.hk" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/NowPL1.png" group-title="09. Sports TV", 170. NowSport PL1
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NowPL1.m3u8
+http://www.geocities.ws/wahyuiptv/NowHK-PL.m3u8
 
 
 
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.1" tvg-logo="https://www.nowtv.now.com/media/s-logo/631_e.png" group-title="09. Sports TV",171. Now Sport 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptv12k.com:35461/654321/123456/21684
+http://www.geocities.ws/wahyuiptv/NowHK-Sports1.m3u8
 
 
 
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.2" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-c.png" group-title="09. Sports TV",172. Now Sport 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptv12k.com:35461/654321/123456/21686
+http://www.geocities.ws/wahyuiptv/NowHK-Sports2.m3u8
 
 
 
 #EXTINF:-1 tvg-id="English.-.Now.SPORTS.3" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_170_122" group-title="09. Sports TV",173. Now Sport 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://iptv12k.com:35461/654321/123456/21688
+http://www.geocities.ws/wahyuiptv/NowHK-Sports3.m3u8
 
 
 
@@ -1599,8 +1601,7 @@ http://www.geocities.ws/wahyuiptv/UFC247.m3u8
 
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/NBA_Premium_Logo_TV_2017.png",217. NBA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
+http://www.geocities.ws/wahyuiptv/NBA.m3u8
 
 
 
